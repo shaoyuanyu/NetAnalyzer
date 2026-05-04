@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "NetAnalyzer - WiFi 网络分析工具"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "NetAnalyzer 主能力"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NetAnalyzer"
+    }
+  ]
+}
